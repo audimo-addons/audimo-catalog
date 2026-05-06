@@ -1,0 +1,18 @@
+{
+  "schema_version": 1,
+  "name": "audimo-addons",
+  "description": "Default community catalog of Audimo addons.",
+  "homepage": "https://github.com/audimo-addons/audimo-catalog",
+  "updated_at": "2026-05-05T00:00:00Z",
+  "addons": [
+    {
+      "id": "audimo-streamers",
+      "name": "YouTube / SoundCloud / Bandcamp",
+      "description": "Free public web streams. Each service can be toggled individually after install.",
+      "author": "audimo-addons",
+      "homepage": "https://github.com/audimo-addons/audimo-streamers",
+      "icon_url": "",
+      "manifest_url": "https://github.com/audimo-addons/audimo-streamers/releases/latest/download/manifest.json"
+    }
+  ]
+}
