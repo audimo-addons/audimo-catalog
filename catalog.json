@@ -13,6 +13,15 @@
       "homepage": "https://github.com/audimo-addons/audimo-streamers",
       "icon_url": "",
       "manifest_url": "https://github.com/audimo-addons/audimo-streamers/releases/latest/download/manifest.json"
+    },
+    {
+      "id": "audimo-soulseek",
+      "name": "Soulseek",
+      "description": "Install slskd and search Soulseek peers directly from the source picker.",
+      "author": "audimo-addons",
+      "homepage": "https://github.com/audimo-addons/audimo-soulseek",
+      "icon_url": "",
+      "manifest_url": "https://github.com/audimo-addons/audimo-soulseek/releases/latest/download/manifest.json"
     }
   ]
 }
