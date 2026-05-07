@@ -3,7 +3,7 @@
   "name": "audimo-addons",
   "description": "Default community catalog of Audimo addons.",
   "homepage": "https://github.com/audimo-addons/audimo-catalog",
-  "updated_at": "2026-05-05T00:00:00Z",
+  "updated_at": "2026-05-07T00:00:00Z",
   "addons": [
     {
       "id": "audimo-streamers",
@@ -22,6 +22,15 @@
       "homepage": "https://github.com/audimo-addons/audimo-soulseek",
       "icon_url": "",
       "manifest_url": "https://github.com/audimo-addons/audimo-soulseek/releases/latest/download/manifest.json"
+    },
+    {
+      "id": "audimo-indexers",
+      "name": "Indexers + Debrid",
+      "description": "Six torrent indexers (apibay, bitsearch, torrentdownload, prowlarr, rutracker, audiobookbay) feeding six debrid backends (RD, AllDebrid, TorBox, Premiumize, Debrid-Link, EasyDebrid). After install, paste your debrid API key in the addon's Configure page.",
+      "author": "audimo-addons",
+      "homepage": "https://github.com/audimo-addons/audimo-indexers",
+      "icon_url": "",
+      "manifest_url": "https://github.com/audimo-addons/audimo-indexers/releases/latest/download/manifest.json"
     }
   ]
 }
