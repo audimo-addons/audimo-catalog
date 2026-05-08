@@ -31,6 +31,15 @@
       "homepage": "https://github.com/audimo-addons/audimo-indexers",
       "icon_url": "",
       "manifest_url": "https://github.com/audimo-addons/audimo-indexers/releases/latest/download/manifest.json"
+    },
+    {
+      "id": "audimo-audiobooks",
+      "name": "Audiobooks",
+      "description": "Audiobook sources: Internet Archive (free direct streams, no debrid needed), LibriVox (public domain), and AudiobookBay (torrents via debrid or libtorrent).",
+      "author": "audimo-addons",
+      "homepage": "https://github.com/audimo-addons/audimo-audiobooks",
+      "icon_url": "",
+      "manifest_url": "https://github.com/audimo-addons/audimo-audiobooks/releases/latest/download/manifest.json"
     }
   ]
 }
